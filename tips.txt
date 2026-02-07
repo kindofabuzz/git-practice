@@ -1,1 +1,2 @@
 Tip 1: Use git diff often.
+Tip 2: You must be on the branch you want to merge into.
