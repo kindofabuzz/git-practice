@@ -1,2 +1,3 @@
 Learning Git on Linux
 Git tracks changes, not just files
+small change
